@@ -1,2 +1,2 @@
 # sparknotes
-Notebooks for Spark Structured Streaming, Delta Lake, as prep for the Spark Developer examination.
+Notebooks for Spark Structured Streaming, Delta Lake, ETL, performance, etc. as prep for the Spark Developer examination.
